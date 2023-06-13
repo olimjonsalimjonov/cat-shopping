@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(184, 228, 230);
+    text-align: center;
+}
+.box{
+    background-color: rgb(255, 117, 202);
+    padding: 15px;
+    margin-left: -8px;
+    margin-right: -8px;
+    margin-top: -5px;
+}
+a{
+  font-family: sans-serif;
+  margin: 1%;
+}
+.box1{
+    padding: 10px;
+
+}
+.link{
+    margin-right: 400px;
+}
+.box3{
+    margin-left: 404px;
+
+}
+.link1{
+    text-align: left;
+}
+.box2{
+    margin-left: 404px;
+}
+.link2{
+    text-align: left;
+}
+.img1{
+    width: 540px;
+    height: 390px;
+}
